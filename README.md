@@ -1,8 +1,8 @@
 # CPNT262
 - Achievements Round 1
-- Before and After - String Achievemnt 
-- Haley Dickson
-- GH pages : 
+- Before and After (option 2) - String Achievemnt 
+- Haley Dickson 
+- GH pages: https://gingerhale.github.io/cpnt262-achieve1-3/
 
 ## Artibutes
 - The man himself, Tony Grimes
